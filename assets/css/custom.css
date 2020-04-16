@@ -1,17 +1,15 @@
-.navbar {
-    z-index: 1;
-}
-
-.bg-custom {
-    color: aliceblue;
-}
-
-body {
-    font-family: 'Ubuntu', sans-serif;
-}
-
-
-/* .jumbotron {
+            .navbar {
+                z-index: 1;
+            }
+            
+            .bg-custom {
+                color: aliceblue;
+            }
+            
+            body {
+                font-family: 'Ubuntu', sans-serif;
+            }
+            /* .jumbotron {
     background-image: url('../img/tes.jpg');
     background-size: cover;
     height: 950px;
@@ -29,7 +27,15 @@ body {
 .jumbotron p {
     color: antiquewhite;
 } */
-
-.carousel-caption h5 {
-    margin-top: -40px;
-}
+            
+            .carousel-captions {
+                position: absolute;
+                /* right: 15%; */
+                /* bottom: 20px; */
+                left: 34%;
+                margin-top: -400px;
+                /* padding-top: 20px; */
+                /* padding-bottom: 20px; */
+                color: #fff;
+                text-align: center;
+            }
