@@ -10,7 +10,8 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
-.jumbotron {
+
+/* .jumbotron {
     background-image: url('../img/tes.jpg');
     background-size: cover;
     height: 950px;
@@ -27,4 +28,8 @@ body {
 
 .jumbotron p {
     color: antiquewhite;
+} */
+
+.carousel-caption h5 {
+    margin-top: -40px;
 }
