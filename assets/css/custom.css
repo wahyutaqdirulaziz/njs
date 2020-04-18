@@ -3,11 +3,12 @@
             }
             
             .bg-custom {
-                color: aliceblue;
+                color: rgba(0, 1, 2, 0.616);
             }
             
             body {
                 font-family: 'Ubuntu', sans-serif;
+                margin-top: -50px;
             }
             /* .jumbotron {
     background-image: url('../img/tes.jpg');
@@ -38,4 +39,12 @@
                 /* padding-bottom: 20px; */
                 color: #fff;
                 text-align: center;
+            }
+            
+            .carousel-slide {
+                margin-top: -100px;
+            }
+            
+            .carousel-item .active img {
+                height: px;
             }
